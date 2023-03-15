@@ -1,0 +1,1 @@
+{"version":3,"file":"src_App_tsx.chunk.bundle","mappings":";;;;;;;;oFAAA,wHACA,otCAEe,QAASA,IAAT,EAAe,CAC5B,MAAO,qBAAC,iBAAD,qFAAP,CACD","sources":["webpack:///./src/App.tsx"],"sourcesContent":["import * as React from 'react';\nimport { Text } from 'react-native';\n\nexport default function App() {\n  return <Text>App 2</Text>;\n}\n"],"names":["App"],"sourceRoot":""}

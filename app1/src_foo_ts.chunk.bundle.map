@@ -1,0 +1,1 @@
+{"version":3,"file":"src_foo_ts.chunk.bundle","mappings":";;;;;;;;uYACA,wFAEO,QAAeA,IAAf,mKACiB,GAAAC,QAAA,GADjB","sources":["webpack:///./src/foo.ts"],"sourcesContent":["// eslint-disable-next-line import/no-unresolved\nimport { baz } from 'module1/baz';\n\nexport async function foo() {\n  return `foo + ${await baz()}`;\n}\n"],"names":["foo","baz"],"sourceRoot":""}

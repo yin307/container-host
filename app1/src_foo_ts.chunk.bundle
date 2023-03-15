@@ -1,0 +1,13 @@
+(self["webpackChunkapp1"] = self["webpackChunkapp1"] || []).push([["src_foo_ts"],{
+
+/***/ "./src/foo.ts":
+/*!********************!*\
+  !*** ./src/foo.ts ***!
+  \********************/
+/***/ (function(__unused_webpack_module, exports, __webpack_require__) {
+
+var _interopRequireDefault=__webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js");Object.defineProperty(exports, "__esModule", ({value:true}));exports.foo=foo;var _regenerator=_interopRequireDefault(__webpack_require__(/*! @babel/runtime/regenerator */ "./node_modules/@babel/runtime/regenerator/index.js"));var _baz=__webpack_require__(/*! module1/baz */ "webpack/container/remote/module1/baz");function foo(){return _regenerator.default.async(function foo$(_context){while(1){switch(_context.prev=_context.next){case 0:_context.next=2;return _regenerator.default.awrap((0,_baz.baz)());case 2:_context.t0=_context.sent;return _context.abrupt("return","foo + "+_context.t0);case 4:case"end":return _context.stop();}}},null,null,null,Promise);}
+
+/***/ })
+
+}]);//# sourceMappingURL=src_foo_ts.chunk.bundle.map?platform=android
