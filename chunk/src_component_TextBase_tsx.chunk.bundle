@@ -1,0 +1,13 @@
+(self["webpackChunkHostApp"] = self["webpackChunkHostApp"] || []).push([["src_component_TextBase_tsx"],{
+
+/***/ "./src/component/TextBase.tsx":
+/*!************************************!*\
+  !*** ./src/component/TextBase.tsx ***!
+  \************************************/
+/***/ (function(__unused_webpack_module, exports, __webpack_require__) {
+
+var _interopRequireDefault=__webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "./node_modules/@babel/runtime/helpers/interopRequireDefault.js");Object.defineProperty(exports, "__esModule", ({value:true}));exports["default"]=TextBase;var _react=_interopRequireDefault(__webpack_require__(/*! react */ "./node_modules/react/index.js"));var _reactNative=__webpack_require__(/*! react-native */ "./node_modules/react-native/index.js");var _jsxRuntime=__webpack_require__(/*! react/jsx-runtime */ "./node_modules/react/jsx-runtime.js");var _jsxFileName="/Users/awmac/Documents/GitHub/MicroFrontendDemo/HostApp/src/component/TextBase.tsx";function TextBase(props){return/*#__PURE__*/(0,_jsxRuntime.jsx)(_reactNative.Text,{style:{color:'green',fontSize:16},children:props.children});}
+
+/***/ })
+
+}]);//# sourceMappingURL=src_component_TextBase_tsx.chunk.bundle.map?platform=android
